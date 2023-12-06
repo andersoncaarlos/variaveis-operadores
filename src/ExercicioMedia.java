@@ -23,9 +23,7 @@ public class ExercicioMedia {
 		float media = (nota1 + nota2 + nota3 + nota4) / 4;
 		
 		System.out.println();
-		System.out.println("Média final " + String.format("%.1f", media));
-		
-		
+		System.out.println("Média final " + String.format("%.1f", media));		
 		
 		
 		sc.close();
